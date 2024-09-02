@@ -1,6 +1,6 @@
 # Student and Project info
-1. Name:  
-2. Student ID: 
+1. Name: Shaochong Jia
+2. Student ID: 9041561574
 3. Platform: Ubuntu 22.04
 
 
